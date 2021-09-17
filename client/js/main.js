@@ -1,13 +1,13 @@
     // 设置axios的基地址
-    axios.defaults.baseURL = 'https://autumnfish.cn';
-    // axios.defaults.baseURL = 'http://localhost:3000';
+    // axios.defaults.baseURL = 'https://autumnfish.cn';
+    axios.defaults.baseURL = 'http://localhost:3000';
 
     // 实例化vue
     var app = new Vue({
       el: "#player",
       data: {
         // 搜索关键字
-        query: '', 
+        query: '',
         // 歌曲列表
         musicList: [],
         // 歌曲url
