@@ -16,8 +16,8 @@ github地址：https://github.com/zzv123/Music
 1. HTML
 2. CSS
 3. JavaScript
-4. axios
-5. vue
+4. Axios
+5. Vue
 
 ### 后端
 1. NeteaseCloudMusicApi开源项目：https://github.com/Binaryify/NeteaseCloudMusicApi（感谢作者🥰）
