@@ -20,7 +20,7 @@ github地址：https://github.com/zzv123/Music
 5. Vue
 
 ### 后端
-1. NeteaseCloudMusicApi开源项目：https://github.com/Binaryify/NeteaseCloudMusicApi（感谢作者🥰）
+1. NeteaseCloudMusicApi开源项目：https://github.com/Binaryify/NeteaseCloudMusicApi
 
 ## 项目搭建
 1. 运行server文件夹app.js文件
